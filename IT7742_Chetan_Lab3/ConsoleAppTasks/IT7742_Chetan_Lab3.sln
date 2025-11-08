@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT7742_Chetan_Lab3", "IT7742_Chetan_Lab3.csproj", "{CBA10CA4-4BCF-4B3C-B60F-70677541D573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA10CA4-4BCF-4B3C-B60F-70677541D573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA10CA4-4BCF-4B3C-B60F-70677541D573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA10CA4-4BCF-4B3C-B60F-70677541D573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA10CA4-4BCF-4B3C-B60F-70677541D573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
